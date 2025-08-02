@@ -23,11 +23,10 @@ The portfolio is designed to be clean, responsive, and easy to navigate, and it 
 ## Live Demo
 
 You can view the live version of this portfolio here:
-https://Bennsye.github.io/July2025Cohort-Hackathon1
-
+https://github.com/Bennsye/July2025Cohort-Hackathon1.git
 ## Getting Started
 
 To run this project locally, simply clone the repository and open the `index.html` file in your browser.
 
 ```sh
-git clone [https://github.com/Bennsye/July2025Cohort-Hackathon1.git](https://github.com/Bennsye/July2025Cohort-Hackathon1.git)
+git clone [https://github.com/Bennsye/July2025Cohort-Hackathon1.git](https://github.com/Bennsye/July2025Cohort-Hackathon1.git)git add README.md
